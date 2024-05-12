@@ -1,24 +1,88 @@
-# 💫 About Me:
-⦿ 🔭 I’m currently working on LARAVEL FRAMEWORK<br><br>⦿ 🌱 I’m currently learning backend<br><br>⦿ 💬 Ask me about html,css,javascript,bootstrap,PHP<br><br>⦿ 📫 How to reach me afraaza74@gmail.com<br><br>⦿ ⚡ Fun fact I am funny
+ 
+ ![Hi There, I am Meghna Srivastaa](https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
+ 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MeghnaS21)
+
+**CONNECT WITH ME**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyderabad_60_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-afraaz-ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hyderabad_60_) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afraaz24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afraaz24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afraaz24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afraaz24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- display the social media buttons in your README -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
----
-[![](https://visitcount.itsvg.in/api?id=afraaz24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/hyderabad_60_
+[3]: https://www.linkedin.com/in/mohammed-afraaz-ahmed
+[6]: https://github.com/afraaz24
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+- 🔭 I’m currently working on improving Web Development skills.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on Projects.
+- 🤔 I’m looking for help with Competitive Coding.
+- 💬 Ask me about Competitive Programming, any Tech realed stuff.
+- 📫 How to reach me:  **afraaza74@gmail.com**
+- 😄 Pronouns: Him/He.
+- ⚡ Fun fact: I am very funny.
+
+[![Afraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=afraaz24&show_icons=true&theme=dracula)](https://github.com/afraaz24/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afraaz24&size_weight=0.5&count_weight=0.5)](https://github.com/afraaz24/github-readme-stats)
+
+![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-c-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/github/followers/afraaz24?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/afraaz24?label=Stars&style=plastic">
+### Languages and Tools:
+
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<!-- <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+ -->
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
